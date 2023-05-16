@@ -1,0 +1,12 @@
+.select-camera-modal{
+    background-color: white;
+    height: 55%;
+    width: 50%;
+    padding-inline: 5%;
+    padding-block: 2%;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
